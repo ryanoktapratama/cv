@@ -1,0 +1,36 @@
+  body {
+    background-color: #e7e7de;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #008891;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    font-family: "Helvetica";
+    color: #00587a;
+  }
+
+  h3 {
+    font-family: "Helvetica";
+    color: #00587a;
+  }
+
+  p {
+    font-family: "Helvetica";
+    color: #0f3057;
+  }
+
+  table {
+    font-family: "Helvetica";
+    color: #0f3057;
+  }
+
+  ul{
+    font-family: "Helvetica";
+    color: #0f3057;
+  }
